@@ -1,0 +1,28 @@
+blockquote { 
+	text-align: justify;
+	font-style: italic;
+	border: 5px solid #61ffff;
+	border-radius: 10px;
+}
+
+h2 {
+	text-align: center;
+	text-shadow: 5px 5px #61ffff;
+}
+
+span {
+	text-decoration: underline;
+}
+
+.cero {
+	margin: 0px;
+}
+
+div {
+	border: 3px solid red;
+	margin: 10%;
+	background-image: url("img.jpg");
+	background-repeat: repeat-y;
+	background-size: 300px 300px;
+	background-position: left;
+}
